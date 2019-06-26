@@ -7,6 +7,13 @@ import java.util.Date;
 import java.util.List;
 import java.util.Map;
 
+
+/**
+ * 一定要包含getter和setter
+ * ConfigurationProperties可以将对象的信息通过配置文件去指定
+ * Component扫描成组建，否则无法Autowired
+ * 包装的配置文件见application.yml
+ */
 @Component
 @ConfigurationProperties(prefix = "emp")
 public class Emp {

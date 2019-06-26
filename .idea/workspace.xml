@@ -1,7 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="79da8899-c975-4ad6-93a0-9acbf350f9c8" name="Default Changelist" comment="oo" />
+    <list default="true" id="79da8899-c975-4ad6-93a0-9acbf350f9c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_core_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_jul_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_attoparser_attoparser_2_0_5_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_log4j2_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_thymeleaf_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_thymeleaf_thymeleaf_spring5_3_0_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_unbescape_unbescape_1_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_bootstrap_4_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_popper_js_1_14_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/pom.xml_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/ThymeleafController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/hello/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/log4j2-dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/log4j2-prod.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/logback-spring.xml_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/logback.xml_bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/static_file/test.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init/src/main/resources/templates/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring_init模块.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/SpringInitApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/SpringInitApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Emp.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Emp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/EmpConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/EmpConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/AnimalController.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/AnimalController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring_init/src/test/java/com/wangwei/spring_init/SpringInitApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring_init/src/test/java/com/wangwei/spring_init/SpringInitApplicationTests.java" afterDir="false" />
+    </list>
     <ignored path="$USER_HOME$/Desktop/spring/spring_boot_project/target/" />
     <ignored path="$PROJECT_DIR$/spring_boot_project/target/" />
     <ignored path="$PROJECT_DIR$/spring_init/target/" />
@@ -15,69 +55,142 @@
     <session id="1740850517">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
-          <entry key="xml" value="1" />
+          <entry key="class" value="4" />
+          <entry key="factories" value="1" />
+          <entry key="html" value="8" />
+          <entry key="java" value="60" />
+          <entry key="json" value="1" />
+          <entry key="log" value="23" />
+          <entry key="md" value="12" />
+          <entry key="mvnw" value="1" />
+          <entry key="pom" value="4" />
+          <entry key="properties" value="31" />
+          <entry key="xml" value="24" />
+          <entry key="xml_bak" value="2" />
+          <entry key="yml" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
-          <entry key="XML" value="1" />
+          <entry key="CLASS" value="4" />
+          <entry key="HTML" value="8" />
+          <entry key="JAVA" value="60" />
+          <entry key="JSON" value="1" />
+          <entry key="Log" value="14" />
+          <entry key="Markdown" value="12" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Properties" value="31" />
+          <entry key="XML" value="28" />
+          <entry key="YAML" value="27" />
+          <entry key="spring.factories" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="txt" value="2" />
+          <entry key="html" value="20" />
+          <entry key="java" value="1127" />
+          <entry key="md" value="1647" />
+          <entry key="properties" value="265" />
+          <entry key="txt" value="24" />
+          <entry key="xml" value="1938" />
+          <entry key="xml_bak" value="5" />
+          <entry key="yml" value="571" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="HTML" value="20" />
+          <entry key="JAVA" value="1127" />
+          <entry key="Markdown" value="1647" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Properties" value="265" />
+          <entry key="XML" value="1938" />
+          <entry key="YAML" value="571" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot_project/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spring_boot_project/src/main/java/com/wangwei/controller/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/spring_boot_project/src/main/java/com/wangwei/HelloMainApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        <entry file="file://$PROJECT_DIR$/spring_init模块.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/application-dev.properties" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/application-prod.properties" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Student.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/logger/LogTest.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/SpringInitApplication.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/test/java/com/wangwei/logger/LogTest.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/test/java/com/wangwei/spring_init/SpringInitApplicationTests.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/test/java/com/wangwei/spring_init/LogTest.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/application-log.properties" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/EmpConfig.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/AnimalController.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Emp.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/logback.xml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/logback.xml_bak" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/logback-spring.xml" />
+        <option value="$PROJECT_DIR$/READ.md" />
+        <option value="$PROJECT_DIR$/spring_init/config/application.properties" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/log4j2.xml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/log4j2-spring.xml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/log4j2-dev.xml" />
+        <option value="$PROJECT_DIR$/spring_init/application.properties" />
+        <option value="$PROJECT_DIR$/spring_init/config/application.yml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/MyWebAppConfig.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/config/application.properties" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/ThymeleafProperties.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/log4j2-prod.xml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/templates/ww.html" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/ThymeleafController.java" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/spring_init/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/templates/hello.html" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/resources/static_file/test.html" />
+        <option value="$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/ThymeleafConfig.java" />
+        <option value="$PROJECT_DIR$/spring_init模块.md" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -100,6 +213,12 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
   <component name="MavenRunner">
     <option name="jreName" value="1.8" />
   </component>
@@ -112,10 +231,13 @@
       <profile-state>
         <expanded-state>
           <State />
+          <State>
+            <id>Maven</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Android</id>
+            <id>MavenModelInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -127,7 +249,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,20 +260,44 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="CatdeaLogs" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="WebMvcAutoConfiguration&#9;PSI&#9;JAVA://org.springframework.boot.autoconfigure.web.servlet.WebMvcAutoConfiguration" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561344468172" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561514930378" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_init/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/spring_init/src/main/resources" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.wangwei.spring_init" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring_init/src/main/resources/hello" />
+      <recent name="$PROJECT_DIR$/spring_init/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring_init" />
+      <recent name="$PROJECT_DIR$/spring_init/config" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -166,7 +311,55 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Spring Boot.SpringInitApplication">
+    <configuration name="LogTest.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_init" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangwei.spring_init.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangwei.spring_init" />
+      <option name="MAIN_CLASS_NAME" value="com.wangwei.spring_init.LogTest" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringInitApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_init" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangwei.spring_init.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangwei.spring_init" />
+      <option name="MAIN_CLASS_NAME" value="com.wangwei.spring_init.SpringInitApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringInitApplicationTests.testXml" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring_init" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangwei.spring_init.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.wangwei.spring_init" />
+      <option name="MAIN_CLASS_NAME" value="com.wangwei.spring_init.SpringInitApplicationTests" />
+      <option name="METHOD_NAME" value="testXml" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HelloMainApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="spring_boot_project" />
       <extension name="coverage">
@@ -180,8 +373,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringInitApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="spring_init" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wangwei.spring_init.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wangwei.spring_init.SpringInitApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/spring_init" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SpringInitApplicationTests.testXml" />
+      <item itemvalue="JUnit.SpringInitApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.LogTest.contextLoads" />
+      <item itemvalue="Spring Boot.HelloMainApp" />
+      <item itemvalue="Spring Boot.SpringInitApplication" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.SpringInitApplication" />
+        <item itemvalue="JUnit.LogTest.contextLoads" />
+        <item itemvalue="JUnit.SpringInitApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringInitApplicationTests.testXml" />
         <item itemvalue="Spring Boot.HelloMainApp" />
       </list>
     </recent_temporary>
@@ -197,7 +416,14 @@
       <option name="presentableId" value="Default" />
       <updated>1561343193609</updated>
       <workItem from="1561343194730" duration="248000" />
-      <workItem from="1561343556499" duration="852000" />
+      <workItem from="1561343556499" duration="2466000" />
+      <workItem from="1561346161489" duration="13048000" />
+      <workItem from="1561424217107" duration="6626000" />
+      <workItem from="1561441738168" duration="564000" />
+      <workItem from="1561442412882" duration="11738000" />
+      <workItem from="1561459974929" duration="33000" />
+      <workItem from="1561514884964" duration="160000" />
+      <workItem from="1561515337822" duration="188000" />
     </task>
     <task id="LOCAL-00001" summary="oo">
       <created>1561343944379</created>
@@ -206,17 +432,56 @@
       <option name="project" value="LOCAL" />
       <updated>1561343944379</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="oo">
+      <created>1561344521036</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1561344521036</updated>
+    </task>
+    <task id="LOCAL-00003" summary="bean注解添加service">
+      <created>1561344938180</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1561344938180</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="SpringInitApplicationTests_testXml - 2019.06.24 at 10h 55m 03s.xml">
+      <configuration name="SpringInitApplicationTests.testXml" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringInitApplicationTests_contextLoads - 2019.06.24 at 13h 57m 41s.xml">
+      <configuration name="SpringInitApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SpringInitApplicationTests_contextLoads - 2019.06.24 at 13h 58m 48s.xml">
+      <configuration name="SpringInitApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogTest_contextLoads - 2019.06.24 at 14h 19m 45s.xml">
+      <configuration name="LogTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogTest_contextLoads - 2019.06.24 at 14h 21m 45s.xml">
+      <configuration name="LogTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogTest_contextLoads - 2019.06.24 at 14h 23m 35s.xml">
+      <configuration name="LogTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogTest_contextLoads - 2019.06.24 at 14h 24m 14s.xml">
+      <configuration name="LogTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="LogTest_contextLoads - 2019.06.24 at 14h 24m 59s.xml">
+      <configuration name="LogTest.contextLoads" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1100000" />
+    <option name="totallyTimeSpent" value="35071000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27825466" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -224,7 +489,41 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
@@ -233,23 +532,24 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32891566" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
       <window_info anchor="right" id="SciView" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" id="Bean Validation" order="10" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -258,8 +558,12 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/spring_boot_project" />
+    </ignored-roots>
     <MESSAGE value="oo" />
-    <option name="LAST_COMMIT_MESSAGE" value="oo" />
+    <MESSAGE value="bean注解添加service" />
+    <option name="LAST_COMMIT_MESSAGE" value="bean注解添加service" />
   </component>
   <component name="ZooKeeperConfig">
     <option name="host" value="localhost" />
@@ -270,24 +574,271 @@
     <option name="tooltip" value="true" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/spring_boot_project/pom.xml">
+    <entry file="file://$PROJECT_DIR$/spring_init/logs/log/wangwei-spring-boot-2019-06-24 16:24:02-0.log" />
+    <entry file="file://$PROJECT_DIR$/spring_init/logs/log/wangwei-spring-boot-2019-06-24 16:22:14-0.log" />
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/service/EmpService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="68">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot_project/src/main/java/com/wangwei/controller/HelloWorld.java">
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/spring-mvc.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring_boot_project/src/main/java/com/wangwei/HelloMainApp.java">
+    <entry file="file://$PROJECT_DIR$/spring_init/src/test/java/com/wangwei/spring_init/SpringInitApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/SpringInitApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/logback.xml_bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" column="49" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/pom.xml_bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/logs/log/wangwei-spring-boot-2019-06-24-0.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/logs/log/wangwei-spring-boot.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/${LOG_HOME}/${appName}-file.log" />
+    <entry file="file://$PROJECT_DIR$/spring_init/${LOG_HOME}/${appName}-rolling.log" />
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/logback-spring.xml_bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="48" column="48" selection-start-line="48" selection-start-column="48" selection-end-line="48" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/log4j2-dev.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/META-INF/spring.factories">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-53" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/config/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring_init/config/application.yml" />
+    <entry file="file://$PROJECT_DIR$/spring_init/target/classes/com/wangwei/spring_init/config/EmpConfig.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/target/classes/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/target/classes/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/target/classes/config/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring_init/target/classes/META-INF/spring-configuration-metadata.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/MyWebAppConfig.java" />
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/hello/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="7" column="33" lean-forward="true" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/log4j2-prod.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/InitController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/ThymeleafProperties.java" />
+    <entry file="file://$PROJECT_DIR$/spring_init/logs/log4j2log/wangwei-spring-boot-rolling.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="-1066">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/logs/log4j2log/wangwei-spring-boot-file.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/animal.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/config/application.properties" />
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/EmpController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="752">
+          <caret line="62" column="32" lean-forward="true" selection-start-line="62" selection-start-column="32" selection-end-line="62" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/ThymeleafController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" lean-forward="true" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.6.RELEASE/spring-boot-autoconfigure-2.1.6.RELEASE.jar!/org/springframework/boot/autoconfigure/web/servlet/WebMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2703">
+          <caret line="160" column="62" selection-start-line="160" selection-start-column="62" selection-end-line="160" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/ThymeleafConfig.java" />
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/static_file/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/config/EmpConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/controller/AnimalController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="5" selection-start-line="15" selection-start-column="4" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Forte.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Emp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init/src/main/java/com/wangwei/spring_init/bean/Animal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring_init模块.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -308,7 +859,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -349,7 +900,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

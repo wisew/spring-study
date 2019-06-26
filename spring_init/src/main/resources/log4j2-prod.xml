@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- status控制log4j2内部日志打印的级别,monitorInterval设置多少秒重新读取一次配置文件 -->
+<Configuration status="WARN" monitorInterval="0">
+    <!--无效的配置
+        <Property name="LOG_HOME" value="logs/log4j2log"/>
+        <Property name="appName" value="wangwei-spring-boot"/>
+    -->
+    <Appenders>
+        <!-- 定义控制台输出SYSTEM_OUT,SYSTEM_ERR -->
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss} [%t] %-5level %logger{36} - %msg%n"/>
+        </Console>
+        <!-- append用作测试，日志信息直接覆盖 -->
+        <File name="log" fileName="logs/log4j2log/wangwei-spring-boot-file.log" append="false">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} %-5level %class{36} %L %M - %msg%xEx%n"/>
+        </File>
+        <RollingFile name="RollingFileInfo" fileName="logs/log4j2log/wangwei-spring-boot-rolling.log"
+                     filePattern="logs/log4j2log/wangwei-spring-boot-rolling-%d{yyyy-MM-dd}-%i.log">
+            <!-- 还可以在控制台输出，定义级别 -->
+            <ThresholdFilter level="info" onMatch="ACCEPT" onMismatch="DENY"/>
+            <PatternLayout pattern="[%d{HH:mm:ss:SSS}] [%p] - %l - %m%n"/>
+            <Policies>
+                <TimeBasedTriggeringPolicy/>
+                <SizeBasedTriggeringPolicy size="100 MB"/>
+            </Policies>
+            <!-- DefaultRolloverStrategy属性如不设置，则默认为最多同一文件夹下7个文件，这里设置了20 -->
+            <DefaultRolloverStrategy max="20"/>
+        </RollingFile>
+    </Appenders>
+    <loggers>
+        <!--过滤掉mybatis的一些无用的DEBUG信息-->
+        <logger name="org.mybatis" level="INFO"></logger>
+        <logger name="com.wangwei" level="DEBUG" additivity="true">
+            <appender-ref ref="Console"/>
+            <appender-ref ref="log"/>
+        </logger>
+        <!--
+            all < trace < debug < info < warn < error < fatal < off
+        -->
+        <root level="warn">
+            <appender-ref ref="Console"/>
+            <appender-ref ref="RollingFileInfo"/>
+        </root>
+    </loggers>
+</Configuration>

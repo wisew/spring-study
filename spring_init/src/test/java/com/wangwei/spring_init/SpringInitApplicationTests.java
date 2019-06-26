@@ -27,13 +27,15 @@ public class SpringInitApplicationTests {
 
     @Test
     public void testXml() {
-        EmpService empService = (EmpService) context.getBean("empService");
+//        EmpService empService = (EmpService) context.getBean("empService");
+        EmpService empService = (EmpService) context.getBean("empService2");
         empService.add();
     }
 
     @Test
     public void contextLoads() {
         System.out.println(emp);
+        System.out.println(System.getProperty("user.dir"));
     }
 
     @Test
