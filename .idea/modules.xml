@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka.iml" filepath="$PROJECT_DIR$/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-eureka.iml" filepath="$PROJECT_DIR$/feign-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-eureka-hello-client.iml" filepath="$PROJECT_DIR$/feign-eureka-hello-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feign-eureka-hello-server.iml" filepath="$PROJECT_DIR$/feign-eureka-hello-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-04-web.iml" filepath="$PROJECT_DIR$/spring-boot-04-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-05-bill.iml" filepath="$PROJECT_DIR$/spring-boot-05-bill.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-study.iml" filepath="$PROJECT_DIR$/.idea/spring-study.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring_init.iml" filepath="$PROJECT_DIR$/spring_init.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_security/spring_security.iml" filepath="$PROJECT_DIR$/spring_security/spring_security.iml" />
     </modules>
   </component>
 </project>

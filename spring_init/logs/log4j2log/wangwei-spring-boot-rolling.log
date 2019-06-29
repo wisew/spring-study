@@ -1,0 +1,217 @@
+[11:05:50:458] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32083 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[11:05:50:462] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[11:05:51:582] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.442 seconds (JVM running for 2.208)
+[11:17:04:953] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32149 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[11:17:04:959] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[11:17:06:086] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.541 seconds (JVM running for 2.26)
+[11:17:57:466] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32153 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[11:17:57:474] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[11:17:58:661] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.587 seconds (JVM running for 2.142)
+[14:01:43:362] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32384 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[14:01:43:370] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[14:01:44:819] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.945 seconds (JVM running for 2.812)
+[14:17:55:380] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32424 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[14:17:55:386] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[14:17:56:545] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.555 seconds (JVM running for 2.366)
+[15:01:08:819] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32585 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:01:08:824] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:01:09:969] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.547 seconds (JVM running for 2.279)
+[15:03:38:822] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32599 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:03:38:827] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:03:39:967] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.514 seconds (JVM running for 2.31)
+[15:06:50:411] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32614 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:06:50:415] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:06:51:518] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.493 seconds (JVM running for 2.314)
+[15:11:46:774] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32637 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:11:46:782] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:11:48:012] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.655 seconds (JVM running for 2.343)
+[15:22:28:066] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32673 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:22:28:071] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:22:29:235] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.572 seconds (JVM running for 2.255)
+[15:23:18:310] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32685 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:23:18:317] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:23:19:495] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.574 seconds (JVM running for 2.157)
+[15:24:56:370] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32697 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:24:56:376] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:24:57:496] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.531 seconds (JVM running for 2.213)
+[15:46:46:930] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting LogTest on wangweideMacBook-Pro.local with PID 32748 (started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[15:46:46:936] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[15:46:48:434] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started LogTest in 1.866 seconds (JVM running for 2.9)
+[15:46:48:617] [INFO] - com.wangwei.spring_init.LogTest.contextLoads(LogTest.java:19) - info日志
+[15:46:48:617] [WARN] - com.wangwei.spring_init.LogTest.contextLoads(LogTest.java:20) - warn日志
+[15:46:48:618] [ERROR] - com.wangwei.spring_init.LogTest.contextLoads(LogTest.java:21) - error日志
+[16:17:39:382] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32902 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:17:39:389] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[16:17:40:776] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.88 seconds (JVM running for 2.777)
+[16:19:19:488] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32913 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:19:19:497] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[16:19:20:717] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.632 seconds (JVM running for 2.218)
+[16:22:25:425] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32921 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:22:25:427] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[16:22:26:290] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.initialize(TomcatWebServer.java:90) - Tomcat initialized with port(s): 8080 (http)
+[16:22:26:306] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing ProtocolHandler ["http-nio-8080"]
+[16:22:26:315] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting service [Tomcat]
+[16:22:26:315] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting Servlet engine: [Apache Tomcat/9.0.21]
+[16:22:26:376] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Initializing Spring embedded WebApplicationContext
+[16:22:26:376] [INFO] - org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.prepareWebApplicationContext(ServletWebServerApplicationContext.java:283) - Root WebApplicationContext: initialization completed in 915 ms
+[16:22:26:658] [INFO] - org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.initialize(ExecutorConfigurationSupport.java:171) - Initializing ExecutorService 'applicationTaskExecutor'
+[16:22:26:749] [INFO] - org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping.<init>(WelcomePageHandlerMapping.java:54) - Adding welcome page: class path resource [static/index.html]
+[16:22:26:803] [INFO] - org.apache.juli.logging.DirectJDKLog.log(DirectJDKLog.java:173) - Starting ProtocolHandler ["http-nio-8080"]
+[16:22:26:834] [INFO] - org.springframework.boot.web.embedded.tomcat.TomcatWebServer.start(TomcatWebServer.java:202) - Tomcat started on port(s): 8080 (http) with context path ''
+[16:22:26:837] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.842 seconds (JVM running for 2.588)
+[16:25:22:519] [INFO] - org.springframework.scheduling.concurrent.ExecutorConfigurationSupport.shutdown(ExecutorConfigurationSupport.java:208) - Shutting down ExecutorService 'applicationTaskExecutor'
+[16:25:24:692] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32931 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:25:24:698] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: prod
+[16:25:25:887] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.627 seconds (JVM running for 2.461)
+[16:49:22:850] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 32996 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:49:22:857] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[16:49:24:154] [WARN] - org.thymeleaf.templatemode.TemplateMode.parse(TemplateMode.java:150) - [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+[16:49:24:249] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.833 seconds (JVM running for 2.674)
+[16:49:57:133] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33002 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:49:57:141] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[16:49:58:347] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.597 seconds (JVM running for 2.162)
+[16:56:57:623] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33033 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:56:57:628] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[16:56:58:811] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.579 seconds (JVM running for 2.35)
+[16:59:08:181] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting LogTest on wangweideMacBook-Pro.local with PID 33045 (started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:59:08:187] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[16:59:09:750] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started LogTest in 1.873 seconds (JVM running for 2.601)
+[16:59:09:938] [INFO] - com.wangwei.spring_init.LogTest.contextLoads(LogTest.java:19) - info日志
+[16:59:09:938] [WARN] - com.wangwei.spring_init.LogTest.contextLoads(LogTest.java:20) - warn日志
+[16:59:09:939] [ERROR] - com.wangwei.spring_init.LogTest.contextLoads(LogTest.java:21) - error日志
+[16:59:41:559] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33052 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[16:59:41:566] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[16:59:42:799] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.624 seconds (JVM running for 2.21)
+[17:02:51:279] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33079 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:02:51:285] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[17:02:52:472] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.582 seconds (JVM running for 2.41)
+[17:05:11:183] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33087 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:05:11:190] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[17:05:12:383] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.598 seconds (JVM running for 2.302)
+[17:08:45:111] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33104 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:08:45:119] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:646) - No active profile set, falling back to default profiles: default
+[17:08:46:062] [WARN] - org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:557) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'student': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'student.goods' in value "${student.goods}"
+[17:08:46:077] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:821) - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'student': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'student.goods' in value "${student.goods}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:380) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1411) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:592) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:845) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at com.wangwei.spring_init.SpringInitApplication.main(SpringInitApplication.java:11) [classes/:?]
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'student.goods' in value "${student.goods}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:851) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1192) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	... 17 more
+[17:10:33:592] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33111 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:10:33:599] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[17:10:34:474] [WARN] - org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:557) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'student': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'student.goods' in value "${student.goods}"
+[17:10:34:490] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:821) - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'student': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'student.goods' in value "${student.goods}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:380) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1411) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:592) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:845) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at com.wangwei.spring_init.SpringInitApplication.main(SpringInitApplication.java:11) [classes/:?]
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'student.goods' in value "${student.goods}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:851) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1192) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	... 17 more
+[17:18:18:588] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33138 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:18:18:594] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[17:18:19:573] [WARN] - org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:557) - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'empController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in value "${name}"
+[17:18:19:589] [ERROR] - org.springframework.boot.SpringApplication.reportFailure(SpringApplication.java:821) - Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'empController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in value "${name}"
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:380) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1411) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:592) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:515) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:320) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:222) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:318) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:845) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:877) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:549) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:140) ~[spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:742) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:389) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:311) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1213) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1202) [spring-boot-2.1.6.RELEASE.jar:2.1.6.RELEASE]
+	at com.wangwei.spring_init.SpringInitApplication.main(SpringInitApplication.java:11) [classes/:?]
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'name' in value "${name}"
+	at org.springframework.util.PropertyPlaceholderHelper.parseStringValue(PropertyPlaceholderHelper.java:178) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.util.PropertyPlaceholderHelper.replacePlaceholders(PropertyPlaceholderHelper.java:124) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.doResolvePlaceholders(AbstractPropertyResolver.java:237) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.core.env.AbstractPropertyResolver.resolveRequiredPlaceholders(AbstractPropertyResolver.java:211) ~[spring-core-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.context.support.PropertySourcesPlaceholderConfigurer.lambda$processProperties$0(PropertySourcesPlaceholderConfigurer.java:175) ~[spring-context-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.resolveEmbeddedValue(AbstractBeanFactory.java:851) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1192) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1171) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:593) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:90) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:374) ~[spring-beans-5.1.8.RELEASE.jar:5.1.8.RELEASE]
+	... 17 more
+[17:20:42:022] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33150 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:20:42:028] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[17:20:43:245] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.638 seconds (JVM running for 2.365)
+[17:58:51:168] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33226 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[17:58:51:175] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[17:58:52:968] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 2.299 seconds (JVM running for 3.166)
+[18:00:02:759] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33226 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[18:00:02:761] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[18:00:03:133] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 0.409 seconds (JVM running for 73.331)
+[18:25:55:116] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33298 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[18:25:55:124] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[18:25:56:251] [WARN] - org.springframework.web.servlet.resource.ResourceHttpRequestHandler.afterPropertiesSet(ResourceHttpRequestHandler.java:325) - Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver.
+[18:25:56:255] [WARN] - org.springframework.web.servlet.resource.ResourceHttpRequestHandler.afterPropertiesSet(ResourceHttpRequestHandler.java:325) - Locations list is empty. No resources will be served unless a custom ResourceResolver is configured as an alternative to PathResourceResolver.
+[18:25:56:481] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.832 seconds (JVM running for 2.618)
+[18:27:26:008] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1249) - No mapping for GET /index.html
+[18:27:59:382] [WARN] - org.springframework.web.servlet.DispatcherServlet.noHandlerFound(DispatcherServlet.java:1249) - No mapping for GET /index.html
+[18:28:53:671] [INFO] - org.springframework.boot.StartupInfoLogger.logStarting(StartupInfoLogger.java:50) - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33330 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+[18:28:53:677] [INFO] - org.springframework.boot.SpringApplication.logStartupProfileInfo(SpringApplication.java:650) - The following profiles are active: dev
+[18:28:55:004] [INFO] - org.springframework.boot.StartupInfoLogger.logStarted(StartupInfoLogger.java:59) - Started SpringInitApplication in 1.775 seconds (JVM running for 2.504)

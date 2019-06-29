@@ -6,18 +6,36 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="eureka" />
+        <module name="feign-eureka-hello-client" />
+        <module name="feign-eureka-hello-server" />
+        <module name="spring-boot-04-web" />
+        <module name="spring-boot-05-bill" />
         <module name="spring_init" />
+        <module name="spring_security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eureka" target="1.5" />
+      <module name="feign-eureka" target="1.5" />
+      <module name="feign-eureka-hello-client" target="1.5" />
+      <module name="feign-eureka-hello-server" target="1.5" />
+      <module name="spring-boot-04-web" target="1.8" />
+      <module name="spring-boot-05-bill" target="1.8" />
+      <module name="spring-boot-06-servlet" target="1.8" />
       <module name="spring_boot_project" target="1.8" />
       <module name="spring_init" target="1.8" />
+      <module name="spring_security" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-04-web" options="-parameters" />
+      <module name="spring-boot-05-bill" options="-parameters" />
+      <module name="spring-boot-06-servlet" options="-parameters" />
       <module name="spring_boot_project" options="-parameters" />
       <module name="spring_init" options="-parameters" />
+      <module name="spring_security" options="-parameters" />
     </option>
   </component>
 </project>

@@ -7,6 +7,11 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/spring_init/pom.xml" />
+        <option value="$PROJECT_DIR$/spring_security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-05-bill/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
       </list>
     </option>
   </component>

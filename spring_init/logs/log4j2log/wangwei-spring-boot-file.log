@@ -1,0 +1,5 @@
+18:28:53.671 INFO  org.springframework.boot.StartupInfoLogger 50 logStarting - Starting SpringInitApplication on wangweideMacBook-Pro.local with PID 33330 (/Users/wangwei/IdeaProjects/spring-study/spring_init/target/classes started by wangwei in /Users/wangwei/IdeaProjects/spring-study/spring_init)
+18:28:53.677 DEBUG org.springframework.boot.StartupInfoLogger 53 logStarting - Running with Spring Boot v2.1.6.RELEASE, Spring v5.1.8.RELEASE
+18:28:53.677 INFO  org.springframework.boot.SpringApplication 650 logStartupProfileInfo - The following profiles are active: dev
+18:28:54.734 DEBUG com.wangwei.spring_init.config.EmpConfig 14 empService2 - @bean加载
+18:28:55.004 INFO  org.springframework.boot.StartupInfoLogger 59 logStarted - Started SpringInitApplication in 1.775 seconds (JVM running for 2.504)
